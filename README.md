@@ -7,7 +7,7 @@
 	http://pkaczmarski.com/canvas/
 
 
-Small project that I did lately to play arround with HTML5 canvas and JavaScript.
+Small project that I did lately to play around with HTML5 canvas and JavaScript.
 
 For packaging and development, minification and automation, I used Webpack 4.
 
